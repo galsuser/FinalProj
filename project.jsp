@@ -5,11 +5,11 @@
     double num = Math.random();
     if (num > 0.95) {
   %>
-      <h2>OK, You'll have a luck day!</h2><p>(<%= num %>)</p>
+      <h2>OK WELL DONE, You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
-      <h2>OK, life goes on ... </h2><p>(<%= num %>)</p>
+      <h2>OK WELL DONE, life goes on ... </h2><p>(<%= num %>)</p>
   <%
     }
   %>
